@@ -10,9 +10,9 @@ public class Odd {
         int number = Integer.valueOf(scanner.nextLine());
 
         if (number % 2 == 0) {
-            System.out.println("number is even.");
+            System.out.println("number "+ number + " is even.");
         } else {
-            System.out.println("number is odd.");
+            System.out.println("number "+ number +" is odd.");
         }
 
         scanner.close();
