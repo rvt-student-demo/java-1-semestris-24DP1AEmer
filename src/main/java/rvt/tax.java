@@ -16,9 +16,6 @@ public class tax {
             System.out.println("Tax:" + (100 + (number-5000) * 0.08));
         }
 
-        else if (number < 25000) {
-            System.out.println("Tax:" + (100 + (number-5000) * 0.08));
-        }
         else if (number < 55000) {
             System.out.println("Tax:" + (1700 + (number-25000) * 0.10));
         }
