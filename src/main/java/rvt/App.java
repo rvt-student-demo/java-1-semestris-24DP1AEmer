@@ -1,6 +1,6 @@
 package rvt;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) {
@@ -8,10 +8,10 @@ public class App {
        // Scanner scanner = new Scanner(System.in);   
 
         ///int age = Integer.valueOf(scanner.nextLine());
-        scanner.close();
+        //scanner.close();
         //if (age > 18) {
        //     System.out.println("Tu esi pilngadīgs"); 
        // }
-       if(value >= start)
+       //if(value >= start)
     }
 }
