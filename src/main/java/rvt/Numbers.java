@@ -27,6 +27,7 @@ public class Numbers {
         }
             System.out.println("thx! Bye!" );
             System.out.println("Sum is " + sum);
+            System.out.println("Numbers " + ni);
             System.out.println("Average:" + average);
             System.out.println("Odd: " + (odd));
         scanner.close();
