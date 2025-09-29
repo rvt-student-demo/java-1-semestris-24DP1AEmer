@@ -24,7 +24,6 @@ public class random {
                     System.out.println("Parizais skaitlis bija:" + res);
                     System.out.println("Tu zaudeji speli!");
                 } else {
-                    System.out.println("Mine atkal:");
                     number = Integer.valueOf(scanner.nextLine());
                 }
             }
