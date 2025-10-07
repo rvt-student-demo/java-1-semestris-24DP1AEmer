@@ -12,7 +12,7 @@ public class swap {
         System.out.print("Give two indices to swap: ");
         int index1 = scanner.nextInt();
         int index2 = scanner.nextInt();
-
+scanner.close();
         int temp = numbers[index1];
         numbers[index1] = numbers[index2];
         numbers[index2] = temp;
